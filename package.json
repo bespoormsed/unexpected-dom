@@ -34,23 +34,23 @@
   },
   "homepage": "https://github.com/Munter/unexpected-dom",
   "devDependencies": {
-    "browserify": "11.2.0",
+    "browserify": "12.0.1",
     "coveralls": "^2.11.2",
     "istanbul": "^0.4.0",
     "jsdom": "^3.1.2",
     "jshint": "^2.6.3",
-    "magicpen": "^4.3.5",
+    "magicpen": "^5.5.0",
     "mocha": "^2.1.0",
     "mocha-lcov-reporter": "1.0.0",
-    "sinon": "^1.15.4",
+    "sinon": "1.17.2",
     "uglifyjs": "^2.4.10",
-    "unexpected": "10.0.2",
-    "unexpected-sinon": "8.0.0"
+    "unexpected": "10.5.0",
+    "unexpected-sinon": "9.0.4"
   },
   "dependencies": {
-    "array-changes": "1.0.3",
+    "array-changes": "1.2.1",
     "extend": "^3.0.0",
-    "magicpen-prism": "^2.1.2"
+    "magicpen-prism": "^2.2.1"
   },
   "peerDependencies": {
     "unexpected": "^10.0.1"
